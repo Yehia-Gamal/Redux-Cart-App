@@ -1,4 +1,3 @@
-import React from 'react';
 import { Button, Container, Image } from 'react-bootstrap';
 import Table from 'react-bootstrap/Table';
 import { useDispatch, useSelector } from 'react-redux';
