@@ -9,11 +9,11 @@ function AppNavbar() {
   return (
     <Navbar fixed='top' bg="light" expand="lg">
       <Container>
-        <Link to="/" className="navbar-brand">CartApp</Link>
+        <Link to="/Redux-Cart-App" className="navbar-brand">CartApp</Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <NavLink className="nav-link" to="/">Products</NavLink>
+            <NavLink className="nav-link" to="/Redux-Cart-App">Products</NavLink>
             <NavLink className="nav-link" to="/cart">Cart - {cart.length}</NavLink>
           </Nav>
         </Navbar.Collapse>

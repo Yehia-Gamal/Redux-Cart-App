@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <AppNavbar />
       <Routes>
-        <Route path="/" element={<Products />} />
+        <Route path="/Redux-Cart-App" element={<Products />} />
         <Route path="cart" element={<Cart />} />
       </Routes>
     </div>
