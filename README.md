@@ -1,3 +1,13 @@
+# `Redux-Cart-App`
+
+Open [https://yehia-gamal.github.io/Redux-Cart-App](https://yehia-gamal.github.io/Redux-Cart-App) to view it in your browser.
+
+<img src="public/redux_cart.jpg" alt="img-website-app">
+
+<img src="public/redux_cart_2.jpg" alt="img-website-app">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
