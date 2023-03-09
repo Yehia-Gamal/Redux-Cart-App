@@ -2,9 +2,9 @@
 
 Open [https://yehia-gamal.github.io/Redux-Cart-App](https://yehia-gamal.github.io/Redux-Cart-App) to view it in your browser.
 
-<img src="public/redux_cart.jpg" alt="img-website-app">
+<img src="redux_cart.jpg" alt="img-website-app">
 
-<img src="public/redux_cart_2.jpg" alt="img-website-app">
+<img src="redux_cart_2.jpg" alt="img-website-app">
 
 
 
